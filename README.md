@@ -1,31 +1,19 @@
-# Hi there, I'm Darren Jhong 👋
+<h2 align="left">
+  <br>Hi there! 👋<br>
+  <br> I'm Darren Jhong(鍾明達), Frontend Developer 🧑🏻‍💻<br>
+  <br>
+</h2> 
+<h2 align="left">🔧 Technologies and Tools:</h2>
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://vuejs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="40" height="40"/> </a>
+  <a href="https://nuxt.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxt" width="40" height="40"/> </a>
+  <a href="https://vitejs.dev/" target="_blank"> <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/> </a>
+  <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+</p>
 
-I'm a passionate Frontend Developer with expertise in Vue.js and NUXT.js. I enjoy crafting responsive and delightful user interfaces to enhance user experiences.
-
-## 🔧 Skills
-
-- **Vue.js**: Proficient in both Vue2 and Vue3, with experience in building complex web applications and single-page applications (SPAs).
-
-- **NUXT.js**: Skilled in both NUXT2 and NUXT3, I leverage server-side rendering (SSR) and static site generation (SSG) to create fast and SEO-friendly websites.
-
-- **Frontend Development**: Experienced in HTML, CSS, and JavaScript, with a focus on modern frontend technologies like SCSS, BEM, and responsive design.
-
-- **Version Control**: Proficient in Git and GitHub for efficient collaboration and version control.
-
-## 🌱 Currently Learning
-
-I'm always eager to learn and stay up-to-date with the latest trends in frontend development. Currently, I'm diving into GraphQL to improve my API querying skills.
-
-## 📫 Contact Me
-
-Feel free to reach out to me for collaboration or just to say hello:
-
-- Email: [darren@example.com](mailto:darren@example.com)
-- LinkedIn: [Darren Jhong](https://www.linkedin.com/in/darrenjhong)
-- Twitter: [@DarrenJDev](https://twitter.com/DarrenJDev)
-
-## 💼 Portfolio
-
-Check out some of my projects on my portfolio website: [Portfolio](https://www.darrenjhong.com)
-
-Let's build amazing web experiences together! 😄
