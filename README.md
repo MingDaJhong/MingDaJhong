@@ -17,6 +17,5 @@
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-<h2 align="left">
-  [![Gmail Badge](https://img.shields.io/badge/-darrenJMDwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:darrenJMDwork@gmail.com)](mailto:darrenJMDwork@gmail.com)
-</h2>
+[![Gmail Badge](https://img.shields.io/badge/-darrenJMDwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:darrenJMDwork@gmail.com)](mailto:darrenJMDwork@gmail.com)
+
