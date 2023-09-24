@@ -1,7 +1,6 @@
 <h2 align="left">
   <br>Hi there! 👋<br>
-  <br> I'm Darren Jhong(鍾明達), Frontend Developer 🧑🏻‍💻<br>
-  <br>
+  <br> I'm Darren Jhong(鍾明達), Frontend Developer 🧑🏻‍💻
 </h2>
 <br>
 <h2 align="left">🔧 Technologies and Tools:</h2>
