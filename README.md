@@ -20,7 +20,6 @@
 <br>
 <h2 align="left">💻 About Me</h2>
   <p>🚀 Frontend Developer | 🌐 Aspiring Full Stack Developer</p>
-  <p>👨‍💻 Planning to start 'Inline Studio' with my colleague after work.</p>
   <p>🔥 Passionate about NUXT3, skilled in Vue2 and NUXT2</p>
   <p>🌍 Dreaming of working abroad in the US or Singapore</p>
   <p>🌟 Fluent in English and Chinese</p>
